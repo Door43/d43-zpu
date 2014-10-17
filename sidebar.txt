@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpu:home|Door43 (zpu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpu|d43-zpu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpu/archive/master.zip|d43-zpu.zip]]
+
+**Recent Changes**
+{{changes>ns = zpu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpu|Ethnologue data]]
+
